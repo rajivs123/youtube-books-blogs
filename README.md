@@ -21,7 +21,7 @@
 20. MIT 6.006, MIT 6.851, MIT 6.046J - Just search on youtube to get the playlists for each of them
 21. Stanford Algorithms part 1 and 2 - Just search on youtube to get the playlists for each of them
 
-## Blogs / books: (just google book name + "pdf" and you'll find one)
+## Blogs / books:
 
 1. CLRS
 2. CTCI
