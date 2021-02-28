@@ -3,22 +3,23 @@
 2. [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 3. [Akshay Saini](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ)
 4. [Tushar Roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
-5. [Saurabh School](https://www.youtube.com/user/saurabhschool/videos)
-6. [Keerthi Purswani](https://www.youtube.com/channel/UCqPw78XvJUKtGiq3TzAcwJQ)
-7. [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
-8. [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
-9. [Kevin Naughton Jr](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)	
-10. [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
-11. [Interviewing.io](https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg)
-12. [ACM ICPC Amrita](https://www.youtube.com/channel/UCyZtjmvybLLIk2KZgLJL6ZA)
-13. [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
-14. [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
-15. [Algorithms Live](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
-16. [GeeksForGeeks Official channel](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ)
-17. [LeadCoding](https://www.youtube.com/channel/UC81Q2wnuk5KqOFVgAbq4nUw)
-18. [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ) =: This guy is the best amongst all for learning Dynamic Programming
-19. MIT 6.006, MIT 6.851, MIT 6.046J - Just search on youtube to get the playlists for each of them
-20. Stanford Algorithms part 1 and 2 - Just search on youtube to get the playlists for each of them
+5. [Tech Dose](https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g)
+6. [Saurabh School](https://www.youtube.com/user/saurabhschool/videos)
+7. [Keerthi Purswani](https://www.youtube.com/channel/UCqPw78XvJUKtGiq3TzAcwJQ)
+8. [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
+9. [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
+10. [Kevin Naughton Jr](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)	
+11. [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
+12. [Interviewing.io](https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg)
+13. [ACM ICPC Amrita](https://www.youtube.com/channel/UCyZtjmvybLLIk2KZgLJL6ZA)
+14. [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
+15. [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+16. [Algorithms Live](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
+17. [GeeksForGeeks Official channel](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ)
+18. [LeadCoding](https://www.youtube.com/channel/UC81Q2wnuk5KqOFVgAbq4nUw)
+19. [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ) =: This guy is the best amongst all for learning Dynamic Programming
+20. MIT 6.006, MIT 6.851, MIT 6.046J - Just search on youtube to get the playlists for each of them
+21. Stanford Algorithms part 1 and 2 - Just search on youtube to get the playlists for each of them
 
 ## Blogs / books: (just google book name + "pdf" and you'll find one)
 
