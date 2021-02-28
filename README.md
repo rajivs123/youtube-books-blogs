@@ -27,10 +27,11 @@
 2. CTCI
 3. Algorithms Design Manual
 4. EPI
-5. [Competitive programming 3](https://cpbook.net/)
-6. [CP algorithms(blog)](https://cp-algorithms.com/)
-7. [Programming Camp syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/)
-8. [Hitchhikers guide to programming contents](https://comscigate.com/Books/contests/icpc.pdf)
+5. [Programmer's Handbook](https://cses.fi/book/book.pdf)
+6. [Competitive programming 3](https://cpbook.net/)
+7. [CP algorithms(blog)](https://cp-algorithms.com/)
+8. [Programming Camp syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/)
+9. [Hitchhikers guide to programming contents](https://comscigate.com/Books/contests/icpc.pdf)
 
 ## System Design 
 
